@@ -5,6 +5,6 @@
 
 ---
 
-## Diagram
+## Blueprint
 
 ![Diagram](/E743A8E7-D220-4DC3-B5E8-8931D5FC5DD2.jpeg)
